@@ -23,18 +23,18 @@ public class Proje1_NotSistemi {
         }
     }
 
-    public static String getLetterGrade(double ortalama){
-        String harf_notu = "";
+    public static char getLetterGrade(double ortalama){
+        char harf_notu;
         if(ortalama >= 90 && ortalama <= 100){
-            harf_notu = "A";
+            harf_notu = 'A';
         }else if (ortalama >= 80 && ortalama < 90) {
-            harf_notu = "B";
+            harf_notu = 'B';
         }else if (ortalama >= 70 && ortalama < 80) {
-            harf_notu = "C";
+            harf_notu = 'C';
         }else if (ortalama >= 60 && ortalama < 70) {
-            harf_notu = "D";
+            harf_notu = 'D';
         } else{//60'dan küçük ise
-            harf_notu = "F";
+            harf_notu = 'F';
         }
         return harf_notu;
     }
