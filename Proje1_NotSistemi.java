@@ -1,6 +1,7 @@
 //AD-SOYAD: SÜMEYRA ADIYAMAN
 //ÖĞRENCİ NO: 250541012
 //TESLİM TARİHİ: 14.11.2025
+//PROJE ADI: ÖĞRENCİ NOT DEĞERLENDİRME SİSTEMİ
 
 
 package Proje1_NotSistemi;
@@ -98,3 +99,4 @@ public class Proje1_NotSistemi {
     }
 
 }
+
