@@ -1,6 +1,6 @@
 //AD-SOYAD: SÜMEYRA ADIYAMAN
 //ÖĞRENCİ NO: 250541012
-//TESLİM TARİHİ: 14.11.2025
+//TESLİM TARİHİ: 26.11.2025
 //PROJE ADI: AKILLI RESTORAN SİPARİŞ SİSTEMİ
 
 import java.util.Scanner;
@@ -182,3 +182,4 @@ public class Proje3_RestoranSiparis {
         input.close();
     }
 }
+
